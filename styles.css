@@ -1,0 +1,27 @@
+.lamp {
+    height: 30px;
+    width: 30px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 25px;
+}
+.lampRed {
+    background-color: red;
+}
+.lampYellow {
+    background-color: yellow;
+}
+.lampGreen {
+    background-color: green;
+}
+
+#north    { margin:0;  padding-left:50em;  }        
+#south    { margin:0;  padding-left:50em;  bottom:1em}        
+#east     { margin:0;  padding:1em;  width:6em; height:22em; float:left; margin-right:1.1em }        
+#west     { margin:0;  padding:1em;  width:6em; height:22em; float:right; margin-left:1.1em }        
+#center   { margin:0;  padding:1em;  padding-bottom:0em; height: 10em;}   
+   
+.divinline{
+	display: inline-block
+}
+ 
